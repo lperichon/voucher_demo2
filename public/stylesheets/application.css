@@ -1,0 +1,18 @@
+#header {
+    overflow: auto;
+}
+#thoughtful {
+    display: inline-block;
+    float: left;
+}
+#merchant {
+    display: inline-block;
+    float: right;
+}
+#voucher_info {
+    margin-top: 100px;
+}
+#tos {
+    margin-top: 400px;
+    font-size: smaller;
+}
